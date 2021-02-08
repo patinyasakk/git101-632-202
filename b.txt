@@ -1,3 +1,4 @@
 This is b.txt
-# swap a, b in python
-a, b = b, a
+// swap a, b in c
+a = b;
+b = temp;
